@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chrisovalantis Siasis
 - 👀 I’m interested in video games develpment
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on a project voluntarily for the experience 
+- 🌱 I’m currently learning unreal engine
+- 💞️ I’m looking for a job as a junior unreal engine programmer
 - 📫 How to reach me: 
 
         valantis.siasis@gmail.com
