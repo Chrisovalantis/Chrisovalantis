@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chrisovalantis Siasis
 - 👀 I’m interested in video games develpment
 - 🌱 I’m currently learning unreal engine
-- 💞️ I’m looking for a job as a junior unreal engine programmer
+- 💞️ I’m looking for a job as a junior ΑΙ programmer
 - 📫 How to reach me: 
 
         valantis.siasis@gmail.com
