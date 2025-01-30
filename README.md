@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Chrisovalantis Siasis
 - 👀 I’m interested in video games develpment
-- 🌱 I’m currently learning unreal engine
+- 🌱 I’m currently learning the godot game engine
+- ✨ My itch.io page https://durondal.itch.io/
 - 💞️ I’m looking for a job as a junior ΑΙ programmer
 - 📫 How to reach me: 
 
